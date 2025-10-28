@@ -39,7 +39,9 @@ body{
 }
 .all{
     display: flex;
-    height: 100vh;
+    margin-bottom : 75px;
+padding-bottom : 75px;
+padding-top : 75px;
 }
 .divimg{
   border: 2px solid yellow;
@@ -398,4 +400,5 @@ details{
     100%{
         transform: translateX(1100px);
     }
+
 }
